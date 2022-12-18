@@ -10,5 +10,3 @@ Jian Huang -
 
 ## Background
 Ischemic lesions in the brain arise after a blockage to the cerebral blood supply, otherwise known as a stroke [1]. We are interested in the automatic segmentation of ischemic lesions using convolutional neural networks. The goal is to train a model using multimodal MRI data (DWI, ADC and FLAIR images) from the MICCAI Society. 
-
-The identification of stroke lesions is important for accurate diagnosis of stroke in patients. Amongst various models, current publications cite a classification accuracy of 88.7% using logistic regression and 99.79% using neural networks. We intend to replicate a similar model.
