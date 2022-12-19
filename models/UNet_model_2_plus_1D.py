@@ -3,6 +3,9 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
+# Credit: https://github.com/jphdotam/Unet3D/blob/main/unet3d.py 
+# Credit: https://github.com/pytorch/vision/blob/9e474c3c46c0871838c021093c67a9c7eb1863ea/torchvision/models/video/resnet.py#L36
+
 class UNet(nn.Module):
     def __init__(self, n_channels, n_classes, width_multiplier=1, trilinear=True, use_ds_conv=False):
         super(UNet, self).__init__()
