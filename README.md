@@ -6,7 +6,7 @@ The notebooks can be executed locally or online (e.g. colab). However, the data 
 ## Contribution
 Oscar Moses - wrote the base code for training and evaluating UNet models that we all built upon for individual experiments, sourced the data from MICCAI Society and split the data into test/training sets, ran the (2+1)D experiment.
 
-Joey Dronkers - 
+Joey Dronkers - Sourced and early evaluated Dice and DiceBCE loss. Ran the Rejection Sampling experiment. 
 
 Jian Huang - 
 
