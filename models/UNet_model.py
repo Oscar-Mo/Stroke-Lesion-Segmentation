@@ -3,6 +3,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 
 
+# Credit: https://github.com/jphdotam/Unet3D/blob/main/unet3d.py 
+
 class UNet(nn.Module):
     def __init__(self, n_channels, n_classes, width_multiplier=1, trilinear=True, use_ds_conv=False):
         super(UNet, self).__init__()
