@@ -11,7 +11,7 @@ Joey Dronkers -
 Jian Huang - 
 
 ## Background
-Ischemic lesions in the brain arise after a blockage to the cerebral blood supply, otherwise known as a stroke [1]. We are interested in the automatic segmentation of ischemic lesions using convolutional neural networks. The goal is to train a model using multimodal MRI data (DWI, ADC and FLAIR images) from the MICCAI Society. 
+Ischemic lesions in the brain arise after a blockage to the cerebral blood supply, otherwise known as a stroke. We are interested in the automatic segmentation of ischemic lesions using convolutional neural networks. The goal is to train a model using multimodal MRI data (DWI, ADC and FLAIR images) from the MICCAI Society. 
 
 
 ## References/credits
