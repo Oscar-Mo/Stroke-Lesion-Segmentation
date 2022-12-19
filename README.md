@@ -12,3 +12,15 @@ Jian Huang -
 
 ## Background
 Ischemic lesions in the brain arise after a blockage to the cerebral blood supply, otherwise known as a stroke [1]. We are interested in the automatic segmentation of ischemic lesions using convolutional neural networks. The goal is to train a model using multimodal MRI data (DWI, ADC and FLAIR images) from the MICCAI Society. 
+
+
+## References/credits
+ATLAS paper - https://www.nature.com/articles/s41597-022-01401-7 
+
+ATLAS sample code - https://github.com/npnl/isles_2022/ 
+
+UNet 3D - https://github.com/jphdotam/Unet3D/blob/main/unet3d.py 
+
+BCELoss - https://www.kaggle.com/code/bigironsphere/loss-function-library-keras-pytorch/notebook 
+
+2+1 D - https://paperswithcode.com/method/2-1-d-convolution 
