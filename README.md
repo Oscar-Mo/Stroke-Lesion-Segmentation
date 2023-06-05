@@ -1,4 +1,4 @@
-# CSCI 3343: Computer Vision - Final Project
+# Stroke Lesion Segmentation
 
 ## Running the code
 The notebooks can be executed locally or online (e.g. colab). However, the data is not available to the public and cannot be distributed by us according to terms we agreed to. This makes it difficult to run the code - please contact any of us if this causes issues for marking.
@@ -24,3 +24,7 @@ UNet 3D - https://github.com/jphdotam/Unet3D/blob/main/unet3d.py
 BCELoss - https://www.kaggle.com/code/bigironsphere/loss-function-library-keras-pytorch/notebook 
 
 2+1 D - https://paperswithcode.com/method/2-1-d-convolution 
+
+
+## Special Thanks
+A special thanks to Dr Donglai Wei for mentoring us through this project at Boston College
