@@ -27,4 +27,4 @@ BCELoss - https://www.kaggle.com/code/bigironsphere/loss-function-library-keras-
 
 
 ## Special Thanks
-A special thanks to Dr Donglai Wei for mentoring us through this project at Boston College
+A special thanks to Dr Donglai Wei for mentoring us through this project at Boston College.
