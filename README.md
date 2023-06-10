@@ -1,7 +1,7 @@
 # Stroke Lesion Segmentation
 
 ## Running the code
-The notebooks can be executed locally or online (e.g. colab). However, the data is not available to the public and cannot be distributed by us according to terms we agreed to. This makes it difficult to run the code - please contact any of us if this causes issues for marking.
+The notebooks can be executed locally or online (e.g. colab). However, the data is not available to the public and cannot be distributed by us according to terms we agreed to. To request the data yourself, please contact the MICCAI society through the instructions on this page --> [ISLES'22 challenge](https://isles22.grand-challenge.org/dataset/).
 
 ## Contribution
 Oscar Moses - wrote the base code for training and evaluating UNet models that we all built upon for individual experiments, sourced the data from MICCAI Society and split the data into test/training sets, ran the (2+1)D experiment.
