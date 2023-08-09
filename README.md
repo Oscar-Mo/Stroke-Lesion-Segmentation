@@ -11,6 +11,7 @@ Joey Dronkers - Sourced and early evaluated Dice and DiceBCE loss. Ran the Rejec
 Jian Huang - 
 
 ## Background
+![identification of ischemic lesion](https://github.com/Oscar-Mo/Stroke-Lesion-Segmentation/blob/master/example_result.png?raw=true)
 Ischemic lesions in the brain arise after a blockage to the cerebral blood supply, otherwise known as a stroke. We are interested in the automatic segmentation of ischemic lesions using convolutional neural networks. The goal is to train a model using multimodal MRI data (DWI, ADC and FLAIR images) from the MICCAI Society. 
 
 
